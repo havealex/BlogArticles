@@ -5,16 +5,16 @@
 
 豆瓣电影页面:[https://movie.douban.com/top250](https://movie.douban.com/top250)
 一共有10个分页，每个分页页面对应的链接地址为：
-https://movie.douban.com/top250
-https://movie.douban.com/top250?start=25&filter=
-https://movie.douban.com/top250?start=50&filter=
-https://movie.douban.com/top250?start=75&filter=
-https://movie.douban.com/top250?start=100&filter=
-https://movie.douban.com/top250?start=125&filter=
-https://movie.douban.com/top250?start=150&filter=
-https://movie.douban.com/top250?start=175&filter=
-https://movie.douban.com/top250?start=200&filter=
-https://movie.douban.com/top250?start=225&filter=
+- https://movie.douban.com/top250
+- https://movie.douban.com/top250?start=25&filter=
+- https://movie.douban.com/top250?start=50&filter=
+- https://movie.douban.com/top250?start=75&filter=
+- https://movie.douban.com/top250?start=100&filter=
+- https://movie.douban.com/top250?start=125&filter=
+- https://movie.douban.com/top250?start=150&filter=
+- https://movie.douban.com/top250?start=175&filter=
+- https://movie.douban.com/top250?start=200&filter=
+- https://movie.douban.com/top250?start=225&filter=
 
 再来看一下每个图片卡片的具体组成，鼠标选择图片，在弹出的右键菜单中点击【检查】，会跳转到html源代码中的<a></a>标签：
 ```html
