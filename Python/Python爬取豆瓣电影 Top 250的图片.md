@@ -27,7 +27,9 @@
 - requests
 - BeautifulSoup4
 
+```shell
 pip install requests BeautifulSoup4
+```
 
 # Python爬虫代码
 ## 版本1、使用Python爬取单个页面的所有电影图片
