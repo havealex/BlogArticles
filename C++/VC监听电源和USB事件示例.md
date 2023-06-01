@@ -3,6 +3,9 @@
 
 - [C++实现usb插入操作监控](https://blog.csdn.net/Felix_Dreammaker/article/details/79150137)
 - [windows系统睡眠与合上盖子事件捕获](https://blog.csdn.net/gb173652770/article/details/124611984)
+- [Determining the Monitor's On/Off (sleep) Status](https://www.codeproject.com/Articles/1193099/Determining-the-Monitors-On-Off-sleep-Status)
+- [Power Management Functions(https://learn.microsoft.com/en-us/windows/win32/power/power-management-functions)
+- [GetSystemPowerStatus function](https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-getsystempowerstatus)
 
 # 电源设置 GUID
 GUID_POWER_SAVING_STATUS
@@ -19,6 +22,8 @@ E00958C0-C213-4ACE-AC77-FECCED2EEEA5
 
 有关节电器的一般信息，请参阅 硬件组件指南中的节电器 。
 
+- [RegisterSuspendResumeNotification 函数](https://learn.microsoft.com/zh-cn/windows/win32/api/winuser/nf-winuser-registersuspendresumenotification)
+注册以在系统暂停或恢复时接收通知。 类似于 PowerRegisterSuspendResumeNotification，但在用户模式下运行，可以采用窗口句柄。
 - [电源设置 GUID](https://learn.microsoft.com/zh-cn/windows/win32/power/power-setting-guids)
 - [节电模式](https://learn.microsoft.com/zh-cn/windows-hardware/design/component-guidelines/battery-saver)
 
