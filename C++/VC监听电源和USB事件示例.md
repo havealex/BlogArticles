@@ -4,7 +4,7 @@
 - [C++实现usb插入操作监控](https://blog.csdn.net/Felix_Dreammaker/article/details/79150137)
 - [windows系统睡眠与合上盖子事件捕获](https://blog.csdn.net/gb173652770/article/details/124611984)
 - [Determining the Monitor's On/Off (sleep) Status](https://www.codeproject.com/Articles/1193099/Determining-the-Monitors-On-Off-sleep-Status)
-- [Power Management Functions(https://learn.microsoft.com/en-us/windows/win32/power/power-management-functions)
+- [Power Management Functions](https://learn.microsoft.com/en-us/windows/win32/power/power-management-functions)
 - [GetSystemPowerStatus function](https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-getsystempowerstatus)
 
 # 电源设置 GUID
