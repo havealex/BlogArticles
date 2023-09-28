@@ -1,6 +1,6 @@
 - [Intel confirms changes to client product naming schema, Core i5 could become Core (Ultra) 5](https://videocardz.com/newz/intel-confirms-changes-to-client-product-naming-schema-core-i5-could-become-core-ultra-5)
 - [Intel 14th Gen Meteor Lake CPUs Rebranded as the Core Ultra 1st Gen Processors](https://www.hardwaretimes.com/intel-14th-gen-meteor-lake-cpus-rebranded-as-the-core-ultra-1st-gen-processors/)
 - [Intel Core Ultra 5 125H and Ultra 7 155H spotted on Geekbench, Meteor Lake lineup rumored to include Ultra 9 185H and Ultra 7 165H](https://www.notebookcheck.net/Intel-Core-Ultra-5-125H-and-Ultra-7-155H-spotted-on-Geekbench-Meteor-Lake-lineup-rumored-to-include-Ultra-9-185H-and-Ultra-7-165H.747279.0.html)
-- Intel’s “Core i” will soon be called “Core Ultra” – Here’s what’s behind it](https://www.igorslab.de/en/intel-hat-offiziell-bekannt-gegeben-dass-aus-core-i-nun-core-ultra-wird/)
+- [Intel’s “Core i” will soon be called “Core Ultra” – Here’s what’s behind it](https://www.igorslab.de/en/intel-hat-offiziell-bekannt-gegeben-dass-aus-core-i-nun-core-ultra-wird/)
 - [What is Intel Core Ultra? The Meteor Lake naming scheme explained](https://www.trustedreviews.com/explainer/what-is-intel-core-ultra-meteor-lake-4337994)
 - [You might not be able to afford Intel’s new Core Ultra CPUs](https://www.digitaltrends.com/computing/intel-meteor-lake-first-prices-leaked/)
